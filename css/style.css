@@ -32,11 +32,17 @@
     text-decoration: none;
     padding: 20px;
   }
+  
   p{
     font-size: 1.6rem;
+    color: #ffffff;
     text-align: justify;
   }
-
+  
+  .basic-description{
+    font-size: 2rem;
+    font-family: var(--body-font-color);
+  }
   section{
     padding: 3.9rem;
     overflow: hidden;
